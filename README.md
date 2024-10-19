@@ -15,11 +15,7 @@ Xin chào! Tôi là **Hồ Huỳnh Kim Thuận**, một **Sinh viên Công Ngh�
 - **Công cụ**: Git, Docker, Figma
 
 ## Dự án nổi bật ✨
-
-- **[Tên Dự Án 1]**: Mô tả ngắn gọn về dự án, công nghệ sử dụng, và mục tiêu.
-- **[Tên Dự Án 2]**: Mô tả ngắn gọn về dự án, công nghệ sử dụng, và mục tiêu.
-- **[Tên Dự Án 3]**: Mô tả ngắn gọn về dự án, công nghệ sử dụng, và mục tiêu.
-
+- **[WEB BÁN GIÀY]**: Mô tả ngắn gọn về dự án, công nghệ sử dụng, và mục tiêu.
 ## Sở thích ❤️
 
 - Đọc sách 📚
