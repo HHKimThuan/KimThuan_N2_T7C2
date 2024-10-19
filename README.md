@@ -2,7 +2,6 @@
 ## Giới thiệu về tôi 🌟
 
 Xin chào! Tôi là **Hồ Huỳnh Kim Thuận**, một **Sinh viên Công Nghệ Thông Tin**. Tôi đam mê công nghệ và luôn tìm kiếm những thách thức mới để phát triển kỹ năng của mình.
-images/nhung-nghe-luong-cao-1.jpg
 
 ## Thông tin liên lạc 📫
 
