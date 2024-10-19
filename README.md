@@ -6,8 +6,7 @@ Xin chào! Tôi là **Hồ Huỳnh Kim Thuận**, một **Sinh viên Công Ngh�
 ## Thông tin liên lạc 📫
 
 - **Email**: kimthuan@gmail.com
-- **LinkedIn**: [linkedin.com/in/username](https://linkedin.com/in/username)
-- **GitHub**: [github.com/username](https://github.com/username)
+- **GitHub**: [github.com/HHKimThuan](https://github.com/HHKimThuan)
 
 ## Kỹ năng 🛠️
 
