@@ -16,8 +16,8 @@ Xin chào! Tôi là **Hồ Huỳnh Kim Thuận**, một **Sinh viên Công Ngh�
 
 ## Dự án nổi bật ✨
 - **[WEB BÁN GIÀY 👟]**:
+  
 Mô tả dự án 🌟
-
 Dự án Web Bán Giày là một ứng dụng thương mại điện tử cho phép người dùng dễ dàng tìm kiếm, xem và mua các loại giày thể thao và giày thời trang. Với giao diện thân thiện và trực quan, người dùng có thể duyệt qua nhiều mẫu giày khác nhau, thêm sản phẩm vào giỏ hàng và thanh toán một cách nhanh chóng.
 
 Mục tiêu 🎯
