@@ -1,13 +1,11 @@
 # Chào mừng đến với trang cá nhân của tôi! 👋
 ## Giới thiệu về tôi 🌟
 
-Xin chào! Tôi là **[Hồ Huỳnh Kim Thuận]**, một [Sinh viên Công Nghệ Thông Tin]. Tôi đam mê công nghệ và luôn tìm kiếm những thách thức mới để phát triển kỹ năng của mình.
-
-![Profile Picture](https://via.placeholder.com/150.png?text=Your+Profile+Picture)
+Xin chào! Tôi là **Hồ Huỳnh Kim Thuận**, một **Sinh viên Công Nghệ Thông Tin**. Tôi đam mê công nghệ và luôn tìm kiếm những thách thức mới để phát triển kỹ năng của mình.
 
 ## Thông tin liên lạc 📫
 
-- **Email**: [email.cua.ban@example.com](mailto:email.cua.ban@example.com)
+- **Email**: kimthuan@gmail.com
 - **LinkedIn**: [linkedin.com/in/username](https://linkedin.com/in/username)
 - **GitHub**: [github.com/username](https://github.com/username)
 
