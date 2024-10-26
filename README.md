@@ -10,9 +10,9 @@ Xin chào! Tôi là **Hồ Huỳnh Kim Thuận**, một **Sinh viên Công Ngh�
 
 ## Kỹ năng 🛠️
 
-- **Ngôn ngữ lập trình**: Python, JavaScript, Java
-- **Framework**: React, Node.js
-- **Công cụ**: Git, Docker, Figma
+- **Ngôn ngữ lập trình**: [Python](https://www.python.org/), [JavaScript](https://www.javascript.com/), [Java](https://www.oracle.com/java/)
+- **Framework**: [React](https://reactjs.org/), [Node.js](https://nodejs.org/)
+- **Công cụ**: [Git](https://git-scm.com/), [Docker](https://www.docker.com/), [Figma](https://www.figma.com/)
 
 ## Dự án nổi bật ✨
 - **[WEB BÁN GIÀY 👟]**:
