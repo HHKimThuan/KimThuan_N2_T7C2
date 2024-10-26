@@ -2,6 +2,7 @@
 ## Giới thiệu về tôi 🌟
 
 Xin chào! Tôi là **Hồ Huỳnh Kim Thuận**, một **Sinh viên Công Nghệ Thông Tin**. Tôi đam mê công nghệ và luôn tìm kiếm những thách thức mới để phát triển kỹ năng của mình.
+(https://github.com/HHKimThuan/your-repo/blob/main/[it.jpg](https://files.fullstack.edu.vn/f8-prod/blog_posts/6567/63f70f0500fe7.jpg)?raw=true)
 
 ## Thông tin liên lạc 📫
 
